@@ -1,8 +1,23 @@
-# Hello, I'm Ryan Rucki! 
+# 👋 Hello, I'm Ryan Rucki!  
 
-I'm a Student at the University of Denver studying Business Analytics with minors in Finance and Middle Eastern Studies!
+🎓 **Student at the University of Denver**  
+- Major: **Business Analytics**  
+- Minors: **Finance** & **Middle Eastern Studies**  
 
-      I'm currently working on Sports Analytics projects, utlizing R programing and Python. I am also working on SQL projects that I started and school.
-      I'm actively learning: Python, R programming and SQL. 
-      I'm looking to work on coding projects with languages and software I am familiar with. 
-      Please contact me through Linkedin or via Ryan.Rucki@du.edu
+---
+
+💻 **What I'm Working On**  
+- Sports Analytics projects using **R** & **Python**  
+- SQL database projects from coursework and personal exploration  
+- Actively learning: **Python**, **R programming**, and **SQL**  
+
+---
+
+🤝 **What I'm Looking For**  
+I’m eager to collaborate on coding projects that leverage my skills and help me continue to grow in data analytics, programming, and applied research.  
+
+---
+
+📬 **Let’s Connect!**  
+- [LinkedIn](https://www.linkedin.com)  
+- [Email Me](mailto:Ryan.Rucki@du.edu)
