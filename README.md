@@ -19,5 +19,4 @@ I’m eager to collaborate on coding projects that leverage my skills and help m
 ---
 
 📬 **Let’s Connect!**  
-- [LinkedIn](https://www.linkedin.com)  
 - [Email Me](mailto:Ryan.Rucki@du.edu)
