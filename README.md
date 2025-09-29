@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Ryan Rucki!  
+# 👋 Hello, I'm Ryan Rucki
 
 🎓 **Student at the University of Denver**  
 - Major: **Business Analytics**  
