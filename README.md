@@ -8,7 +8,8 @@
 
 💻 **What I'm Working On**  
 - Sports Analytics projects using **R** & **Python**  
-- SQL database projects from coursework and personal exploration  
+- SQL database projects from coursework and personal exploration
+- Converting R scripts into Python for the book, "Introduction to Sports Analytics Using R"
 - Actively learning: **Python**, **R programming**, and **SQL**  
 
 ---
