@@ -2,7 +2,7 @@
 
 🎓 **Student at the University of Denver**  
 - Major: **Business Analytics**  
-- Minors: **Finance** & **Middle Eastern Studies**  
+- Minors: **Finance** 
 
 ---
 
