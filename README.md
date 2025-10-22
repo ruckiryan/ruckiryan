@@ -59,8 +59,8 @@
 - 🧮 Experienced with **SQL Server Management Studio (SSMS)** and **data warehousing (star schemas, ETL, dashboards)**  
 - 📊 Skilled in **Tableau, Power BI, and Cognos BI** for end-to-end data visualization and reporting  
 - ⚙️ Automating workflows using **Power Automate** and integrating tools with **Microsoft 365 + SharePoint**  
-- 🤝 Passionate about connecting analytics to **real-world impact** in Finance, Technology, Aviation and Healthcare.  
-- 🧠 Currently exploring **machine learning projects** and **R Shiny dashboards**  
+- 🤝 Passionate about connecting analytics towards **real-world impacts** across Finance, Technology, Aviation and Healthcare.  
+- 🧠 Currently exploring **machine learning projects** , **Advanced Analytics** , and **Optimization**
 
 ---
 
