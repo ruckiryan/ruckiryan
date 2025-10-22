@@ -65,7 +65,8 @@
 ---
 
 ## 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1E1E1E?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/ryanrucki/)
-[![Email](https://img.shields.io/badge/Email-1E1E1E?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:ryan.rucki@du.edu)
+[LinkedIn](https://www.linkedin.com/in/ryanrucki/)  
+[Email](mailto:ryan.rucki@du.edu)  
+
 
 
