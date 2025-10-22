@@ -65,7 +65,7 @@
 ---
 
 ## 📫 Let's Connect!
-[LinkedIn](https://www.linkedin.com/in/ryanrucki/)  
+[LinkedIn](https://www.linkedin.com/in/ryan-rucki-735820204/)
 [Email](mailto:ryan.rucki@du.edu)  
 
 
