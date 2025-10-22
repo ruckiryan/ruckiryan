@@ -1,7 +1,7 @@
 # Hi, I'm Ryan! 👋  
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ryanrucki.profile)
 
-🎓 I'm a Business Analytics student at the **University of Denver (Daniels College of Business)** passionate about data engineering, business intelligence, and applying analytics to solve real-world challenges in **finance, HR, and transportation**.  
+🎓 I'm a Business Analytics student at the **University of Denver (Daniels College of Business)** passionate about data engineering, business intelligence, and applying analytics to solve real-world challenges. 
 
 ---
 
