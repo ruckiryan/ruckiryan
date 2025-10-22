@@ -65,15 +65,7 @@
 ---
 
 ## 📫 Let's Connect!
-<p align="left">
-  <a href="https://www.linkedin.com/in/ryanrucki/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-1E1E1E?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:ryan.rucki@du.edu" target="_blank">
-    <img src="https://img.shields.io/badge/Email-1E1E1E?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
-  </a>
-  <a href="https://github.com/ryanrucki" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-1E1E1E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1E1E1E?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/ryanrucki/)
+[![Email](https://img.shields.io/badge/Email-1E1E1E?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:ryan.rucki@du.edu)
+
 
