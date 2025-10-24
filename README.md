@@ -38,6 +38,8 @@
   <img src="https://img.shields.io/badge/Cognos%20BI-1E1E1E?style=for-the-badge&logo=ibm&logoColor=0066FF"/>
   <!-- Power Automate -->
   <img src="https://img.shields.io/badge/Power%20Automate-1E1E1E?style=for-the-badge&logo=powerautomate&logoColor=0078D4"/>
+  <!-- PowerShell -->
+<img src="https://img.shields.io/badge/PowerShell-1E1E1E?style=for-the-badge&logo=powershell&logoColor=5391FE"/>
 </p>
 
 ---
