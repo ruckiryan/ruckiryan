@@ -1,11 +1,11 @@
-# Hi, I'm Ryan! 👋  
+# Hi, I'm Ryan! 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ryanrucki.profile)
 
-🎓 I'm a Business Analytics student at the **University of Denver (Daniels College of Business)** passionate about data engineering, business intelligence, and applying analytics to solve real-world challenges. 
+I'm a Business Analytics student at the **University of Denver (Daniels College of Business)** passionate about data engineering, business intelligence, and applying analytics to solve real-world challenges. 
 
 ---
 
-## 💻 Languages & Frameworks
+## Languages & Frameworks
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="45" height="45"/>
@@ -17,7 +17,7 @@
 
 ---
 
-## ⚙️ Tools & Platforms
+## Tools & Platforms
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45"/>
@@ -28,7 +28,7 @@
 
 ---
 
-## 📊 Business Intelligence & Automation
+## Business Intelligence & Automation
 <p align="left">
   <!-- Tableau -->
   <img src="https://img.shields.io/badge/Tableau-1E1E1E?style=for-the-badge&logo=tableau&logoColor=E97627"/>
@@ -44,7 +44,7 @@
 
 ---
 
-## 🧠 Currently Learning
+## Currently Learning
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45" title="Pandas"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45" title="NumPy"/>
@@ -57,12 +57,12 @@
 
 ---
 
-## 🚀 About Me
-- 🧮 Experienced with **SQL Server Management Studio (SSMS)** and **data warehousing (star schemas, ETL, dashboards)**  
-- 📊 Skilled in **Tableau, Power BI, and Cognos BI** for end-to-end data visualization and reporting  
-- ⚙️ Automating workflows using **Power Automate** and integrating tools with **Microsoft 365 + SharePoint**  
-- 🤝 Passionate about connecting analytics towards **real-world impacts** across Finance, Technology, Aviation and Healthcare.  
-- 🧠 Currently exploring **Machine Learning Projects**, **Advanced Analytics**, and **Optimization**
+## About Me
+-  Experienced with **SQL Server Management Studio (SSMS)** and **data warehousing (star schemas, ETL, dashboards)**  
+-  Skilled in **Tableau, Power BI, and Cognos BI** for end-to-end data visualization and reporting  
+-  Automating workflows using **Power Automate** and integrating tools with **Microsoft 365 + SharePoint**  
+-  Passionate about connecting analytics towards **real-world impacts** across Finance, Technology, Aviation and Healthcare.  
+-  Currently exploring **Machine Learning Projects**, **Advanced Analytics**, and **Optimization**
 
 ---
 
